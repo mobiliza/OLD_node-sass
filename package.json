@@ -1,0 +1,17 @@
+{
+  "name": "node-sass",
+  "version": "0.0.0",
+  "description": "Testes com node-sass para compilação de css at runtime com variáveis dinamicas",
+  "main": "app.js",
+  "dependencies": {
+    "mustache": "~2.1.3",
+    "node-sass": "~3.3.2",
+    "mkdirp": "~0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
