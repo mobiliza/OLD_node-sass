@@ -1,8 +1,8 @@
 # node-sass
 
-npm install
-git clone git@github.com:inframobliza/player.git //ou cociar e colar 
-git clone git@github.com:inframobliza/clients.git //ou copiar e colar
+* npm install
+* git clone git@github.com:inframobliza/player.git //ou cociar e colar 
+* git clone git@github.com:inframobliza/clients.git //ou copiar e colar
 
 node app.js
 
